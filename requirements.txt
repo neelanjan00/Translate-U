@@ -1,0 +1,6 @@
+Flask==2.0.2
+google-cloud-translate==2.0.1
+opencv-python==4.5.3.56
+six==1.16.0
+numpy==1.21.2
+easyocr==1.4.1
