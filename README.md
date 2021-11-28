@@ -7,7 +7,7 @@
   </a>
 </p>
 
-> [This is the backend API of the project, the frontend mobile application can be found <a href="https://github.com/neelanjan00/Translate-U-Frontend"> here </a>] Translate U is capable of translating text given in an image from one language to another. The detection of text in the image is performed by [easyOCR](https://github.com/JaidedAI/EasyOCR) while the translation of the text is performed using the [Google Translate API](https://cloud.google.com/translate/). The application supports translation across 80+ languages, the whole list of which can be accessed [here](https://www.jaided.ai/easyocr/#:~:text=languages%20and%20expanding.-,Supported%20Languages,-Language).
+> [This is the backend API of the project, the frontend mobile application can be found <a href="https://github.com/neelanjan00/Translate-U-Frontend"> here</a>] Translate U is capable of translating text given in an image from one language to another. The detection of text in the image is performed by [easyOCR](https://github.com/JaidedAI/EasyOCR) while the translation of the text is performed using the [Google Translate API](https://cloud.google.com/translate/). The application supports translation across 80+ languages, the whole list of which can be accessed [here](https://www.jaided.ai/easyocr/#:~:text=languages%20and%20expanding.-,Supported%20Languages,-Language).
 
 ### 🏠 [Homepage](https://github.com/neelanjan00/Translate-U)
 
