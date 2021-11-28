@@ -23,9 +23,37 @@ pip install -r requirements.txt
 python app.py
 ```
 ## API Routes
-| Route  | Method | Field Name | Input Type | Returns |
-|:-------|--------|------------|------------|:------------|
-| `/`  |    POST    | image | Image File (png or jpg or jpeg) | Returns a string containing the translated text. |
+
+<table>
+	<tr>
+		<th>Route</th>
+      	<th>Method</th>
+        <th>Field Name</th>
+        <th>Input Type</th>
+        <th>Returns</th>
+	</tr>
+    <tr>
+    	<td>/</td>
+        <td>POST</td>
+        <td>
+        	<table>
+            	<tr><td>image</td></tr>
+                <tr><td>sourceLanguage</td></tr>
+                <tr><td>translatedLanguage</td></tr>
+            </table>
+        </td>
+        <td>
+        	<table>
+            	<tr><td>Image File (png or jpg or jpeg)</td></tr>
+                <tr><td>string</td></tr>
+                <tr><td>string</td></tr>
+            </table>
+        </td>
+        <td>
+        	Returns a string containing the translated text.
+        </td>
+    </tr>
+</table>
 
 ## Author
 
